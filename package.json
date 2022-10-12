@@ -1,0 +1,39 @@
+{
+  "name": "house-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@mui/base": "5.0.0-alpha.101",
+    "@mui/icons-material": "5.10.9",
+    "@mui/material": "5.10.9",
+    "firebase": "9.12.0",
+    "lodash": "4.17.21",
+    "prop-types": "15.8.1",
+    "react": "16.12.0",
+    "react-bootstrap": "2.5.0",
+    "react-dom": "16.12.0",
+    "react-router": "6.4.2",
+    "react-router-dom": "6.4.2",
+    "react-scripts": "3.0.1",
+    "sass": "1.26.9",
+    "semantic-ui-css": "2.4.1",
+    "typescript": "3.9.5"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
